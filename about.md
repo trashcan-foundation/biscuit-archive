@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 相关说明
+title: About
 ---
+
+The organization aims to preserve the thoughts of Biscuit.
 
 {% comment %}
 This inserts the "about" photo and text from `_config.yml`.
