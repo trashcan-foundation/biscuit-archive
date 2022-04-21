@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: 关于
 ---
 
-The organization aims to preserve the thoughts of Biscuit.
+饼干档案馆建立于2022年四月，致力于收集并保护饼干思想。
 
 {% comment %}
 This inserts the "about" photo and text from `_config.yml`.
