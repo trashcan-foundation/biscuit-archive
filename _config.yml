@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  The Biscuit Archive
+  We preserve the thoughts of Biscuit.
 # The tags listed as entries in the sidebar
 sidebar_tags:        [essay]
 
