@@ -64,14 +64,8 @@ Xingjian Xie, [May 3, 2022 at 4:47:31 PM]:
 
 让一个人生下来就在某种特定的环境里
 
-Bruce Li, [May 3, 2022 at 5:26:01 PM]:
-小号头像是一个头
-
 Bingan Chen, [May 3, 2022 at 5:26:11 PM]:
 人脑太混乱了吧
-
-Bruce Li, [May 3, 2022 at 5:26:15 PM]:
-名字应该是+或者-
 
 Xingjian Xie, [May 3, 2022 at 5:26:29 PM]:
 然后完成某个事情就给他奖励
