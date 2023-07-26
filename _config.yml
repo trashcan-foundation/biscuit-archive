@@ -6,7 +6,7 @@ plugins:
 # Permalinks
 permalink:           pretty
 
-remote_theme: pages-themes/time-machine@v0.2.0
+theme: time-machine
 
 # Setup
 url:                 http://biscuit-archive.github.io
