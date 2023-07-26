@@ -2,11 +2,12 @@
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
 
 # Permalinks
 permalink:           pretty
 
-theme: time-machine
+remote_theme: pages-themes/time-machine@v0.2.0
 
 # Setup
 url:                 http://biscuit-archive.github.io
